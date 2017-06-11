@@ -10,6 +10,7 @@ namespace demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fonction 1");
         }
     }
 }
